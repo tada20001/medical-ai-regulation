@@ -12,14 +12,14 @@ openai = "*"
 pinecone-client = "*"
 unstructured = "*"
 nltk = "*"
-fastapi = "*"
 jinja2 = "*"
-uvicorn = "*"
 streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
-langchain-pinecone = "*"
 langchain-openai = "*"
+langchain-pinecone = "*"
+langchain-community = "*"
+firecrawl-py = "*"
 
 [dev-packages]
 
